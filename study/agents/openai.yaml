@@ -1,0 +1,4 @@
+interface:
+  display_name: "Study"
+  short_description: "Learn any subject with bilingual lessons and adaptive practice"
+  default_prompt: "Help me study this subject from the sources I provide, quiz me, review my answers, and adapt the next lesson to my progress."

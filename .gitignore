@@ -1,0 +1,4 @@
+# Private learner data and generated study sessions
+study-workspace/
+answer-packets/
+*.answers.json
