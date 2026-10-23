@@ -2,7 +2,7 @@
 
 [![Agent Skills format](https://img.shields.io/badge/format-Agent%20Skills-2563eb)](https://agentskills.io/specification)
 [![Skill editions](https://img.shields.io/badge/editions-2-7c3aed)](#choose-an-edition)
-[![Portable edition](https://img.shields.io/badge/portable-single%20file-059669)](study-portable/SKILL.md)
+[![Portable edition](https://img.shields.io/badge/portable-single%20file-059669)](portable/study/SKILL.md)
 
 **Study** is a bilingual, source-grounded learning skill. It helps an AI tutor teach a subject, test understanding, review submitted answers, and adapt the next practice to the learner’s demonstrated gaps.
 
